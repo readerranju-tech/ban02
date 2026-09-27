@@ -1,0 +1,6 @@
+{
+  "name": "NusantaraPay - Transfer Bank Seluruh Indonesia",
+  "description": "Aplikasi transfer uang ke seluruh bank di Indonesia dengan jaringan BI-FAST, pelacakan status transaksi real-time, validasi rekening otomatis, dan perlindungan keamanan perbankan tingkat lanjut.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
